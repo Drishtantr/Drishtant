@@ -21,7 +21,7 @@ I am a fourth-year computer engineering student having interests in web developm
 
 - <a href="https://github.com/Drishtantr/Notes-Keeper">**CRUD API**:</a>  `PHP/Laravel`, `HTML / CSS / JS`
 
-- <a href="https://drive.google.com/drive/folders/18B75oJ3G9lIxCEml87Kj6L9ScLIdLXQL">**Graphic Design**:</a> `Photoshop`, `Illustrator`
+- <a href="https://drive.google.com/drive/folders/18B75oJ3G9lIxCEml87Kj6L9ScLIdLXQL" target="_blank">**Graphic Design**:</a> `Photoshop`, `Illustrator`
 	
 
 ### :page_with_curl: Blogs:
