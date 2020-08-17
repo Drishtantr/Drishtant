@@ -26,11 +26,14 @@ I am a fourth-year computer engineering student having interests in web developm
 
 ### :page_with_curl: Blogs:
 
+- <a href="https://medium.com/@drishtantregmi777/subscription-based-entertainment-and-nepal-918891f2c0a6">**Subscription-Based Entertainment and Nepal**</a>
+
+- <a href="https://medium.com/@drishtantregmi777/data-as-a-resource-the-good-the-bad-the-ugly-4619afb9fa36">**Data as a Resource: The Good, The Bad, The Ugly**</a>
+
 - <a href="https://medium.com/@drishtantregmi777/profile-picture-an-insight-on-its-shape-e4988f7d7b30">**Profile Picture: An insight on its shape**</a>
 
 - <a href="https://medium.com/@drishtantregmi777/c-constructors-494c87b42c8e">**C++ Constructors**</a>
 
-- <a href="https://medium.com/@drishtantregmi777/subscription-based-entertainment-and-nepal-918891f2c0a6">**Subscription-Based Entertainment and Nepal**</a>
 
 
 
