@@ -13,6 +13,8 @@ I am a fourth-year computer engineering student having interests in web developm
 
 - <a href="https://github.com/Drishtantr/Music-Final">**Music Genre Recognition**:</a> `Tensorflow`, `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn, etc`
 
+- <a href="https://github.com/Drishtantr/followers-comparator">**Who has more Followers?**:</a> `Python/Flask`, `HTML / CSS / JS`
+
 - <a href="https://github.com/Drishtantr/Word-Maze-Generator">**18x18 Word Maze Generator**:</a> `Python/Flask`, `HTML / CSS / JS`
 
 - <a href="https://github.com/Drishtantr/Coder-vs-Bugs-Pygame">**Coder vs Bugs**:</a> `Python/Pygame`, `repl.it`
