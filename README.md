@@ -1,6 +1,6 @@
 ## Hey There ! :wave:
 
-I am a fourth-year computer engineering student having interests in web development, data analysis and graphic design. I mostly work with Python and PHP for analysis and development, and photoshop for graphic design.
+I am a fourth-year computer engineering student having interests in web development and data science. I mostly work with Python and JavaScript.
 
  [![Medium](https://img.shields.io/static/v1.svg?label=&message=Medium&logo=Medium&style=flat&color=black)](https://medium.com/@drishtantregmi777)
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=&message=LinkedIn&logo=linkedin&style=flat&color=black)](https://www.linkedin.com/in/drishtant-regmi-a4a237189/)
