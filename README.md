@@ -48,5 +48,3 @@ I am a fourth-year computer engineering student having interests in web developm
 - **Databases**: `MySQL`, `PostgreSQL`
 
 - **Data Science**: `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn`
-
-- **Graphic Design**: `Photoshop`, `Illustrator`
