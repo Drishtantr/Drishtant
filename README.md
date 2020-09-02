@@ -15,13 +15,13 @@ I am a fourth-year computer engineering student having interests in web developm
 
 - <a href="https://github.com/Drishtantr/followers-comparator">**Who has more Followers?**:</a> `Python/Flask`, `HTML / CSS / JS`
 
+- <a href="https://github.com/Drishtantr/Foreign-Exchange-Rate">**Real Time Forex**:</a> `Python/Flask`, `HTML / CSS / JS`
+
 - <a href="https://github.com/Drishtantr/Word-Maze-Generator">**18x18 Word Maze Generator**:</a> `Python/Flask`, `HTML / CSS / JS`
 
 - <a href="https://github.com/Drishtantr/Coder-vs-Bugs-Pygame">**Coder vs Bugs**:</a> `Python/Pygame`, `repl.it`
 
 - <a href="https://github.com/Drishtantr/RealEstate2018">**Real Estate Management System**:</a> `Python/Django`, `HTML / CSS / JS`
-
-- <a href="https://github.com/Drishtantr/Notes-Keeper">**CRUD API**:</a>  `PHP/Laravel`, `HTML / CSS / JS`
 
 - <a href="https://drive.google.com/drive/folders/18B75oJ3G9lIxCEml87Kj6L9ScLIdLXQL" target="_blank">**Graphic Design**:</a> `Photoshop`, `Illustrator`
 	
