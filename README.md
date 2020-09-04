@@ -11,7 +11,7 @@ I am a fourth-year computer engineering student having interests in web developm
 
 ### :computer: Projects:
 
-- <a href="https://github.com/Drishtantr/Music-Final">**Music Genre Recognition**:</a> `Tensorflow`, `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn, etc`
+- <a href="https://github.com/Drishtantr/Music-Final">**Music Genre Recognition**:</a> `Tensorflow`, `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn,` etc.
 
 - <a href="https://github.com/Drishtantr/followers-comparator">**Who has more Followers?**:</a> `Python/Flask`, `HTML / CSS / JS`
 
