@@ -36,15 +36,3 @@ I am a fourth-year computer engineering student having interests in web developm
 
 - <a href="https://medium.com/@drishtantregmi777/c-constructors-494c87b42c8e">**C++ Constructors**</a>
 
-
-
-
-### :gear: Tools:
-
-- **Languages**: `Python`, `PHP`, `HTML / CSS / JS`
-
-- **Frameworkss**: `Django`, `Flask`, `Laravel`
-
-- **Databases**: `MySQL`, `PostgreSQL`
-
-- **Data Science**: `Numpy`, `Pandas`, `Matplotlib`, `Scikit-Learn`
