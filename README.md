@@ -4,10 +4,6 @@ I am a fourth-year computer engineering student having interests in web developm
 
  [![Medium](https://img.shields.io/static/v1.svg?label=&message=Medium&logo=Medium&style=flat&color=black)](https://medium.com/@drishtantregmi777)
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=&message=LinkedIn&logo=linkedin&style=flat&color=black)](https://www.linkedin.com/in/drishtant-regmi-a4a237189/)
- [![Instagram](https://img.shields.io/static/v1.svg?label=&message=Instagram&logo=Instagram&style=flat&color=black)](https://www.instagram.com/drishtantt)
- [![Facebook](https://img.shields.io/static/v1.svg?label=&message=Facebook&logo=Facebook&style=flat&color=black)](https://www.facebook.com/drishtantregmi1/)
- 
-
 
 ### :computer: Projects:
 
