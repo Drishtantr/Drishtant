@@ -1,6 +1,6 @@
 ## Hey There ! :wave:
 
-I am a software developer looking to create a good, clean and competitive product. I have always been fond of technologies and what we can achieve through it. I like football, marvel and writing.
+I am a software developer looking to create a good, clean and competitive product. I have always been fond of technologies and what we can achieve through it. I like football, marvel and writing.<br>
  [![Medium](https://img.shields.io/static/v1.svg?label=&message=Medium&logo=Medium&style=flat&color=black)](https://medium.com/@drishtantregmi777)
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=&message=LinkedIn&logo=linkedin&style=flat&color=black)](https://www.linkedin.com/in/drishtant-regmi-a4a237189/)
 
